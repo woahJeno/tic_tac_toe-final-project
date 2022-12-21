@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Player","We use enumeration because we will determine the players in an order. We can print with the println!() macro without Debug printing of the struct  or enum that we have integrated with the display trait."]]};

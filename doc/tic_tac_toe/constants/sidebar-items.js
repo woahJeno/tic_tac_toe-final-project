@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"static":[["O_SCORE","We keep the Player O score in the static variable."],["X_SCORE","We keep the Player X score in the static variable."]]};
